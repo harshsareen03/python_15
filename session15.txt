@@ -1,0 +1,10 @@
+what is decorators?
+-decorators helps to modify a function.the decoratrors can be said to be a modification to
+th layer of function.symbol of decorator is '@'
+
+what is class method?
+
+-A class method is a method that is bound to a class rather than its object. It doesn't require creation of a class instance, much like staticmethod. The difference between a static method and a class method is: Static method knows nothing about the class and just deals with the parameters.
+
+what is static method?
+-Static methods, much like class methods, are methods that are bound to a class rather than its object. They do not require a class instance creation. So, they are not dependent on the state of the object.
